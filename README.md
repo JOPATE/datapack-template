@@ -1,2 +1,2 @@
 # randola
- you can change the name of the 
+everything that says change, you can change
